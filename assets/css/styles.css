@@ -1,0 +1,9 @@
+.hide {
+    display: none;
+    opacity: 0;
+}
+.btn-submit {
+    background-color: green;
+    color: aliceblue;
+    width: 100%;
+}
